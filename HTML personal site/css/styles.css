@@ -1,0 +1,20 @@
+
+
+/*********class seletors*********/
+
+
+<link rel="stylesheet.css" href="css/styles.css">
+
+
+.fruits {
+  background-colour: gold;
+}
+
+h1 {
+  co;lor: red;
+  font-size: 200px;
+  font-style: italic;
+}
+img:hover {
+  background-color: red;
+}
